@@ -1,0 +1,36 @@
+header, div, section {
+    border: 1px solid black;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 70%;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+.background {
+    background-color: white;
+}
+
+header {
+    display: flex;
+}
+
+section {
+    display: flex;
+}
+
+img {
+    width: 200px;
+    border-radius: 25%;
+}
+
+.left-section {
+    width: 30%;
+    text-align: right;
+}
+
+.right-section {
+    width: 70%;
+}
